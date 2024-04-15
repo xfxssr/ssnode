@@ -1,6 +1,6 @@
 # 一元机场 每天更新
 
-一元机场,每天定时更新，2024年4月14日，提供4个订阅地址10高速免费节点，支持V2Ray、vpn、免费机场、无限流量，免费VPN，无限流量！V2Ray节点分享，支持v2ray，clash，小火箭！vpn，winxray、2rayNG，BifrostV，Clash，Kitsunebi，V2rayN，V2rayW，Clash，V2rayS，Mellow，Qv2ray，v2ray，clash机场，科学上网翻墙白嫖节点，免费梯子，白嫖梯子，免费代理，永久免费代理，小飞侠SSR：https://www.xfxssr.com
+一元机场,每天定时更新，2024年4月15日，提供4个订阅地址10高速免费节点，支持V2Ray、vpn、免费机场、无限流量，免费VPN，无限流量！V2Ray节点分享，支持v2ray，clash，小火箭！vpn，winxray、2rayNG，BifrostV，Clash，Kitsunebi，V2rayN，V2rayW，Clash，V2rayS，Mellow，Qv2ray，v2ray，clash机场，科学上网翻墙白嫖节点，免费梯子，白嫖梯子，免费代理，永久免费代理，小飞侠SSR：https://www.xfxssr.com
 ### 机场地址
 
 包月（不限时）最低5元起150GB流量：点我了解详情
@@ -8,13 +8,13 @@
 
 ### 机场节点分享
 
-https://www.xfxssr.com/api/v1/client/subscribe?token=6395ed8da5fb61acad78b25805e303f1
+https://www.xfxssr.com/api/v1/client/subscribe?token=37235a58bcff043d13ef15e73367851a
 
-https://www.xfxssr.com/api/v1/client/subscribe?token=260e0d5b191eb3d422fe9273d3a2ff5c
+https://www.xfxssr.com/api/v1/client/subscribe?token=3ed4a2f247dec280c6ac27a5d5f35a60
 
-https://www.xfxssr.com/api/v1/client/subscribe?token=758ec16175a52572975f7d8d11758e2a
+https://www.xfxssr.com/api/v1/client/subscribe?token=71713ab7a9bbfa704f984f3fda253e78
 
-https://www.xfxssr.com/api/v1/client/subscribe?token=c841e0297d99871385b2749b5fdea0fd
+https://www.xfxssr.com/api/v1/client/subscribe?token=7d00e8131ae15b3b43ce799c15e87eac
 
 ### 4k油管视频秒开
 
