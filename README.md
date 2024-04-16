@@ -8,13 +8,13 @@
 
 ### 机场节点分享
 
-https://www.xfxssr.com/api/v1/client/subscribe?token=37235a58bcff043d13ef15e73367851a
+https://www.xfxssr.com/api/v1/client/subscribe?token=7db4becd0c88e6eba124defd2e446e59
 
-https://www.xfxssr.com/api/v1/client/subscribe?token=3ed4a2f247dec280c6ac27a5d5f35a60
+https://www.xfxssr.com/api/v1/client/subscribe?token=1d3068b4a2a23e6dcd9e645a84b3e540
 
-https://www.xfxssr.com/api/v1/client/subscribe?token=71713ab7a9bbfa704f984f3fda253e78
+https://www.xfxssr.com/api/v1/client/subscribe?token=0b00c644c289a1be484ed4c7dbc47618
 
-https://www.xfxssr.com/api/v1/client/subscribe?token=7d00e8131ae15b3b43ce799c15e87eac
+https://www.xfxssr.com/api/v1/client/subscribe?token=23c94ded3c2e756874fe2d424ce1686f
 
 ### 4k油管视频秒开
 
